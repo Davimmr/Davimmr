@@ -16,7 +16,7 @@ Meu nome é Davi Moura. Moro em São Paulo onde sou graduado no curso de Ciênci
 
  
 
-## Sobre mim
+## Informações Sobre mim
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Davimmr)](https://github.com/Davimmr)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-de-moura/)]( https://www.linkedin.com/in/davi-de-moura/)
